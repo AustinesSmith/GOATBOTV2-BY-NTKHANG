@@ -26,11 +26,11 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "OWNER": "Mrkimsters (Symer Steve)",
-  "AGE": "18",
+  "AGE": "15",
   "GENDER": "MALE",
   "nickNameBot": "‧͙⁺˚*･༓☾ $ 𝙏𝘼𝙉𝙅𝙄𝙍𝙊_𝙆𝘼𝙈𝘼𝘿𝙊 ☽༓･*˚⁺‧͙",
-  "FACEBOOK": "https://www.facebook.com/symer.steve.berondo.II",
-  "prefix": "✓",
+  "FACEBOOK": "https://www.facebook.com/SymerSteveBerondo",
+  "prefix": "$",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
