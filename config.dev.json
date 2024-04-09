@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "100080437087855",
     ""
   ],
   "whiteListMode": {
@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "Mrkimsters (Symer Steve)",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
+  "nickNameBot": "‧͙⁺˚*･༓☾ $ 𝙏𝘼𝙉𝙅𝙄𝙍𝙊_𝙆𝘼𝙈𝘼𝘿𝙊 ☽༓･*˚⁺‧͙",
+  "FACEBOOK": "https://www.facebook.com/symer.steve.berondo.II",
   "prefix": "✓",
   "database": {
     "type": "sqlite",
